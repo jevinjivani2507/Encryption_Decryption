@@ -24,4 +24,4 @@ Contributors
 
 1. [Jevin Jivani](https://github.com/jevinjivani2507)
 2. [Ronit Shah](https://github.com/ronit-shah)
-3. [Shrey Somani]()
+3. [Shrey Somani](https://github.com/shreysomani-2703)
