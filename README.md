@@ -17,11 +17,8 @@ About the Code
 
 * Java  
 * External Libraries  
-  *  
-
-YouTube Video:
----
-
+  *  OpenCV
+ 
 Contributors
 ---
 
