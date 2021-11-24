@@ -3,7 +3,7 @@
 Abstract
 ---
 
-This is a group project about encryption and decryption which was created using concepts of Linear Algebra. Initially, we thought of using Hill Cipher but due to its limitations of only 26 characters we created Advanced Hill Cipher where 68 characters including special characters like '!' '@' can be encrypted. Various external libraries of Java are required to run this program which are mentioned below. Concepts like matrix multiplication, determinants, inverse matrix were used in this project.
+This is a group project about encryption and decryption which was created using concepts of Linear Algebra. Cryptography refers to tools and techniques to secure communication and information which can be created using mathematical concepts and algorithms to make it harder to decipher messages Various external libraries of Java are required to run this program which are mentioned below. Concepts like matrix multiplication, determinants, inverse matrix were used in this project.
 
 Features
 --
