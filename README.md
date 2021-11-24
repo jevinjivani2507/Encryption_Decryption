@@ -7,10 +7,10 @@ This is a group project about encryption and decryption which was created using 
 
 Features
 --
+After encrypting the message, it is converted to QR Code which has to be scanned to decrypt the message. After scanning the QR Code, the encrypted message is displayed. Enter the key and the decrypted message is on your screen.
 
 About the Code
 ----
-
 * Java  
 * External Libraries  
   *  OpenCV
