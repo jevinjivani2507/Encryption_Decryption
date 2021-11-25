@@ -12,8 +12,6 @@ After encrypting the message, it is converted to QR Code which has to be scanned
 About the Code
 ----
 * Java  
-* External Libraries  
-  *  OpenCV
 
 <h2> Links for External Libraries </h2>
 
