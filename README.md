@@ -21,8 +21,8 @@ About the Code
 
 Results:
 ---
-<img src ="https://user-images.githubusercontent.com/74830378/143486110-824ece10-0039-4bfe-a5c5-f50e5aa0f060.png" style="width:50%; height:50%;">
-
+<img src ="https://user-images.githubusercontent.com/74830378/143486110-824ece10-0039-4bfe-a5c5-f50e5aa0f060.png" style="width:50%; height:50%; display:flex text-align:middle">
+<img src ="https://user-images.githubusercontent.com/74830378/143487614-5b067248-2eed-4920-a461-92b78ad739b5.png" style="width:50%; height:50%; display:flex text-align:middle">
 
 YouTube Video:
 ---
