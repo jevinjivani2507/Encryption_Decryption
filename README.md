@@ -15,6 +15,8 @@ About the Code
 * External Libraries  
   *  OpenCV
 
+<a href="https://chillyfacts.com/wp-content/uploads/2017/11/zxing-core-2.0.zip">zxing-core-2.0.jar</a>
+
 Results:
 ---
 
