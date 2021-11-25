@@ -15,6 +15,12 @@ About the Code
 * External Libraries  
   *  OpenCV
 
+<h2> Links for External Libraries </h2>
+
+<a href="https://sourceforge.net/projects/opencvlibrary/">OpenCV.org</a>
+<br> <a href="https://chillyfacts.com/wp-content/uploads/2017/11/zxing-core-2.0.zip">zxing-core-2.0.jar</a>
+<br> <a href="https://chillyfacts.com/wp-content/uploads/2017/11/zxing-1.7-javase.zip">zxing-1.7-javase.jar</a>
+
 Results:
 ---
 
