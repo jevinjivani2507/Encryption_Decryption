@@ -20,8 +20,9 @@ About the Code
 <br> <a href="https://chillyfacts.com/wp-content/uploads/2017/11/zxing-1.7-javase.zip">zxing-1.7-javase.jar</a>
 
 Results:
----
-<p align="middle"> <img src ="https://user-images.githubusercontent.com/74830378/143486110-824ece10-0039-4bfe-a5c5-f50e5aa0f060.png" style="width:70%; height:70%";>
+---!
+
+<p align="middle"> <img src ="https://user-images.githubusercontent.com/74830378/143675348-11bc19ba-d52a-4e11-881b-5b5c0f54da71.png" style="width:70%; height:70%";>
 <img src ="https://user-images.githubusercontent.com/74830378/143487614-5b067248-2eed-4920-a461-92b78ad739b5.png" style="width:70%; height:70%";>
 </p>
   
