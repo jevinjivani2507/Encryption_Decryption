@@ -19,8 +19,8 @@ About the Code
 <br> <a href="https://chillyfacts.com/wp-content/uploads/2017/11/zxing-core-2.0.zip">zxing-core-2.0.jar</a>
 <br> <a href="https://chillyfacts.com/wp-content/uploads/2017/11/zxing-1.7-javase.zip">zxing-1.7-javase.jar</a>
 
-Results:
----!
+Results
+---
 
 <p align="middle"> <img src ="https://user-images.githubusercontent.com/74830378/143675348-11bc19ba-d52a-4e11-881b-5b5c0f54da71.png" style="width:70%; height:70%";>
 <img src ="https://user-images.githubusercontent.com/74830378/143487614-5b067248-2eed-4920-a461-92b78ad739b5.png" style="width:70%; height:70%";>
